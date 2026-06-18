@@ -8,7 +8,7 @@ A dynamic dashboard displaying GitHub profile stats, top repositories, and activ
 - Easy to set up and run locally.
 
 ## 🚀 Live Demo
-Check out the live version here: [Live Demo](https://rahul11f.github.io/Git-Profile-Dashboard)
+Check out the live version here: [Live Demo](https://git-profile-dashboard.vercel.app/)
 
 ## 🛠️ Installation & Setup
 
